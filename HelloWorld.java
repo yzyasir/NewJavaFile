@@ -3,3 +3,6 @@ public class HelloWorld {
         System.out.println("Hello World");
     }
 }
+
+// javac filename.java to compile
+// java file to run
